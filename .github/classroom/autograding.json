@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Pendiente Línea",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/07PendienteLinea",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Caracol",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/08Caracol",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Telefono",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09Telefono",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Videojuego",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10Videojuego",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Cuenta Bancaria",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/18CuentaBancaria",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Editorial",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/19Editorial",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Dígitos pares",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/22DigitosPares",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
